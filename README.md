@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-reactjs-chi.vercel.app/](https://portfolio-reactjs-chi.vercel.app/)
 
-- 💬 Ask me about **Problem solving , web developement.**
+- 💬 Ask me about **Problem solving , web development.**
 
 - 📫 How to reach me **sa.maachi@univ-batna2.dz**
 
