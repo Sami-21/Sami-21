@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">A passionate FullStack developer from Algeria</h3>
+<h3 align="center">A FullStack developer from Algeria</h3>
 
 - 🌱 I’m currently learning **Laravel and Vue JS.**
 
