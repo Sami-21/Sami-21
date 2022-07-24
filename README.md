@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Problem solving , web development.**
 
-- 📫 How to reach me **sa.maachi@univ-batna2.dz.** 
+- 📫 How to reach me **samovitch360@gmail.com.** 
 
 - ⚡ Fun fact **I am an athletic nerd.** 
 
