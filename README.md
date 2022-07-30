@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sami</h1>
 <h3 align="center">A FullStack developer from Algeria</h3>
 
-- 🌱 I’m currently learning **Laravel and Vue JS.**
+- 🌱 I’m currently learning **Unity and C#.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-reactjs-chi.vercel.app/](https://portfolio-reactjs-chi.vercel.app/)
 
-- 💬 Ask me about **Problem solving , web development.**
+- 💬 Ask me about **Problem solving , Web development ,Game Development.**
 
 - 📫 How to reach me **samovitch360@gmail.com.** 
 
